@@ -1,17 +1,16 @@
-!DOCTYPE html>
-<html>
-<head>
-    <title>My Page Title</title> 
-</head>
-<body>
+<DOCTYPE html>
+    <HTML>
+        <HEAD>
+            
+                <tittle> my page tittle </tittle>
+            
+        </HEAD>
+        <body style ="background-color: pink;">
+            <h1 my loved one channel please subscribe </h1>
+                <p> A lovely content you can watch to grow digitally</p>
+                <a href="https://www.youtube.com/@karunaRajput-22"> click here </a>
+                <br><br> <br><br>
+                <img src ="demo.jpeg"
 
-    <h1>My first line</h1>
-    <p>Mondeep</p>
-    <p>This is a paragraph</p>
-
-    <h2>HTML links</h2>
-    <p>This is a link to my YouTube channel:</p>
-    <a href="https://www.youtube.com/@KarunaRajput-22">Click here</a>   
-
-</body>
-</html>
+        </body>
+    </HTML>
